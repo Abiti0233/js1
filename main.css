@@ -1,0 +1,67 @@
+#buttons{
+  margin-top: 15px;
+}
+
+#start{
+  padding: 10px;
+  margin-right: 5px;
+}
+
+#start:hover{
+  background-color: beige;
+}
+
+#stop{
+  padding: 10px;
+  margin-right: 5px;
+}
+
+#stop:hover{
+  background-color: beige;
+}
+
+#reset{
+  padding: 10px;
+}
+
+#reset:hover{
+  background-color: beige;
+}
+
+#rap{
+  padding: 10px;
+}
+
+#rap:hover{
+  background-color: beige;
+}
+
+#time{
+  font-size: 45px;
+}
+
+h3 span{
+  font-size: 25px;
+  background-color: blue;
+  border-radius: 10px;
+  width: auto;
+  height: auto;
+  padding: 10px;
+  color: white;
+}
+
+#time span{
+  background-color:white;
+  width: auto;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+#rap-display{
+  background-color:aliceblue;
+  border: 1px solid black;
+  width: 150px;
+  height: 50px;
+  margin-top: 10px;
+  padding: 50px;
+}
